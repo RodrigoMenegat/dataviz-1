@@ -33,5 +33,5 @@ title: dataviz-1
   - Que tipo de trabalho mental seu gráfico quer facilitar para o leitor?
   - Que outros formatos de gráfico você considerou usar para esse material? Por que escolheu esse?
 
-2) Escolha uma publicação no fórum e elabore uma crítica construtiva sobre o gráfico elaborado pelo colega. Você acha que ele escolheu o gráfico correto para a tarefa mental que queria facilitar? Você teria escolhido um gráfico diferente? Qual?
+2) Escolha uma publicação no fórum e escreva uma crítica construtiva sobre o gráfico elaborado pelo colega. Você acha que ele escolheu o gráfico correto para a tarefa mental que queria facilitar? Você teria escolhido um gráfico diferente? Qual?
 
