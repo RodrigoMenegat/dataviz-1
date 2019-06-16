@@ -28,10 +28,10 @@ title: dataviz-1
 
 ### Exercícios
 
-1. Elabore uma visualização a partir de um dos bancos de dados que você descobriu nos módulos anteriores. Publique o resultado no fórum e depois explique porque você escolheu esse formato, responde às seguintes questões: 
+1) Elabore uma visualização a partir de um dos bancos de dados que você descobriu nos módulos anteriores. Publique o resultado no fórum e depois explique porque você escolheu esse formato, respondendo às seguintes questões: 
 
-a) Que tipo de trabalho mental seu gráfico quer facilitar para o leitor? Por que?
-b) Que outros formatos de gráfico você consideraria usar para esse material? Por que escolheu esse?
+  - Que tipo de trabalho mental seu gráfico quer facilitar para o leitor?
+  - Que outros formatos de gráfico você considerou usar para esse material? Por que escolheu esse?
 
-2. Escolha uma publicação no fórum e elabore uma crítica construtiva sobre o gráfico elaborado pelo colega. Você acha que ele escolheu o gráfico correto para a tarefa mental que queria facilitar? Você teria escolhido um gráfico diferente? Qual?
+2) Escolha uma publicação no fórum e elabore uma crítica construtiva sobre o gráfico elaborado pelo colega. Você acha que ele escolheu o gráfico correto para a tarefa mental que queria facilitar? Você teria escolhido um gráfico diferente? Qual?
 
