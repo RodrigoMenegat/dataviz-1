@@ -1,3 +1,6 @@
+title: dataviz-1
+---
+
 ### Textos obrigatórios
 
 - [Introdução à visualização de dados - Rodrigo Menegat](https://rodrigomenegat.github.io/dataviz-1/introducao-visualizacao-de-dados/)
