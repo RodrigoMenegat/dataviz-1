@@ -40,6 +40,7 @@ Portanto, preste muita atenção nos eixos. Às vezes, essas distorções são f
 ### Não omita variáveis importantes
 
 > “O primeiro princípio é que você não deve enganar a si mesmo - e você é a pessoa mais fácil de enganar.
+
 *Richard Feynman, em discurso na formatura de 1974 da Universidade Caltech*
 
 Sabe quando pessoas famosas são criticadas por algo que disseram e respondem que a frase foi tirada de contexto? Contexto é importante, especialmente quando tratamos de dados. 
@@ -85,17 +86,17 @@ A vida é complicada, certo? Os dados podem ser complicados também. Algo compli
 
 Por exemplo, digamos que você seja um investidor da RediMedico, fabricante do Happajoy, e participe da reunião anual de vendas. O CEO da empresa inicia a apresentação com o seguinte gráfico:
 
-![alt text](../img/pictograma.png "Pictograma de seta com número dentro")
+![alt text](../imgs/pictograma.png "Pictograma de seta com número dentro")
 
 O investidor que mora dentro de você olha para esse gráfico e já sonha com as coisas maravilhosas que vai fazer com um retorno tão grande. Entretanto, o analista de dados que mora dentro de você entra em ação e começa a se questionar sobre o que significa o aumento de 18%. Você se pergunta:
 
-- Comparado com o que?
+- Comparado com o quê?
 - Comparado a quando?
 - Comparado com quem?
 
 Estas são perguntas que podemos responder com uma visualização! Felizmente, o CEO concorda e apresenta o próximo gráfico, que compara as receitas dos cinco medicamentos mais vendidos pela RediMedico:
 
-![alt text](../img/barras-redimedico.png "Gráfico de barras em série temporal")
+![alt text](../imgs/barras-redimedico.png "Gráfico de barras em série temporal")
 
 Se fizermos alguns cálculos, veremos que o aumento médio da receita entre 2013 e 2014 foi mesmo de 18%. No entanto, vemos também que esse aumento ocorreu principalmente devido a um enorme aumento de 225% na receita de um único medicamento, Exoalgio. A receita de 3 entre 5 medicamentos caiu. O primeiro gráfico conta apenas parte da verdade, enquanto o segundo gráfico conta a verdade inteira apresentando os detalhes por trás daquele número solitário.
 
@@ -109,17 +110,17 @@ Você pode usar essa escala para ajudá-lo a escolher a melhor representação g
 
 Como já analisamos exemplos de gráficos de barras e gráficos de linhas neste capítulo, vamos ver alguns gráficos que usam áreas e tons de cor.
 
-![alt text](../img/bubble-chart.png "Gráfico de bolhas")
+![alt text](../imgs/bubble-chart.png "Gráfico de bolhas")
 
 O **gráfico de bolhas** acima usa a área para exibir as vendas de medicamento para alergia em cada estado. Com base no tamanho da bolha, você percebe, de modo geral, que Happajoy vendeu mais no Arizona do que no Novo México. Mas você consegue saber quanto, exatamente? A bolha do Arizona é três vezes maior que a bolha do Novo México? Quatro vezes? É difícil dizer. É ainda mais difícil saber quando os tamanhos das bolhas estão mais próximos: Happajoy faz mais sucesso em Utah ou no Kansas?
 
 Nós nos deparamos com o mesmo problema com o próximo gráfico, que usa tons de cor para representar as vendas de Happajoy: a Califórnia está mais escura do que o Texas, mas quanto? Duas vezes? Três vezes? Ninguém sabe dizer. É por isso que gráficos que usam área e tons de cor são melhores para dar um panorama do cenário do que para fazer comparações precisas.
 
-![alt text](../img/choropleth.png "Mapa de tons de cor")
+![alt text](../imgs/choropleth.png "Mapa de tons de cor")
 
 Além da área e de variações na cor, ângulos também não são muito bons para fazer estimativas precisas. É por isso que é tão difícil comparar dois gráficos de pizza, como no exemplo abaixo.
 
-![alt text](../img/pizzas.png "Gráficos de pizza")
+![alt text](../imgs/pizzas.png "Gráficos de pizza")
 
 Já é bem difícil comparar com precisão as fatias no mesmo gráfico de pizza. Comparar fatias em gráficos de pizza diferentes é ainda pior. Se o objetivo deste gráfico é ajudar os leitores a comparar as receitas de um ano para o outro, então algo como um gráfico de barras teria sido uma escolha melhor.
 
@@ -133,15 +134,15 @@ Por exemplo, digamos que o CEO da RediMedico queira mostrar aos investidores com
 
 Vamos começar com o grande panorama. Lembra que as formas gráficas que usam área ou tom de cor são são melhores para fornecer uma visão ampla? Usar um mapa de cores para cada ano que o Happajoy esteve no mercado pode ser útil para mostrar como as vendas se alteraram geograficamente e ao longo do tempo.
 
-![alt text](../img/choropleth-2.gif "Gif de um mapa de cor com variação temporal")
+![alt text](../imgs/choropleth-2.gif "Gif de um mapa de cor com variação temporal")
 
 Agora vamos passar para os detalhes. Digamos que a RediMedico começou a investir muito em publicdade na Califórnia e em Nova York há alguns anos, e os investidores estão se perguntando como estão as vendas nesses estados. Usando o mesmo conjunto de dados, você pode fornecer uma visão mais detalhada:
 
-![alt text](../img/linha-california.png "Gráfico de linhas da Califórnia")
+![alt text](../imgs/linha-california.png "Gráfico de linhas da Califórnia")
 
 Ou você pode comparar as vendas em estados diferentes:
 
-![alt text](../img/linha-cal-ny.png "Gráfico de linhas da Califórnia e Nova York")
+![alt text](../imgs/linha-cal-ny.png "Gráfico de linhas da Califórnia e Nova York")
 
 Viu? Mesmos dados, apresentações diferentes. Se você quer mostrar para os leitores lados diferentes da mesma história, mostre para eles diferentes formas gráficas.
 
@@ -151,11 +152,11 @@ Dizem que uma imagem vale mais que mil palavras, mas isso não significa que voc
 
 Por exemplo, vamos voltar às vendas da Happajoy. Se você vir um gráfico como o seguinte:
 
-![alt text](../img/linha-sem-anotar.png "Gráfico de linhas sem anotação")
+![alt text](../imgs/linha-sem-anotar.png "Gráfico de linhas sem anotação")
 
 Você pode acabar se perguntando o que aconteceu entre 2009 e 2010. Por que houve uma queda tão acentuada na receita? Nesse caso, seria útil adicionar algum texto:
 
-![alt text](../img/linha-anotada.png "Gráfico de linhas anotado")
+![alt text](../imgs/linha-anotada.png "Gráfico de linhas anotado")
 
 Então, sempre que você criar uma visualização, pense sobre o "e daí?" do seu gráfico: por que as pessoas deveriam ligar para as informações que você está apresentando? Adicione anotações para ajudá-los a entender por que devem se importar. Escreva um título que chame a atenção, uma boa introdução que destaque pontos de dados interessantes e uma boa narrativa que estruture sua visualização logicamente. Boa escrita é uma parte importante de boas visualizações.
 
