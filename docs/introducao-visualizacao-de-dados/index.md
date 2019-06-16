@@ -1,5 +1,6 @@
 ---
 title: Visualização de dados: uma introdução
+
 ---
 
 ##### Rodrigo Menegat
