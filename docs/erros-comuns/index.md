@@ -1,9 +1,8 @@
-Eu pretendia escrever algum material original sobre esse tema, mas encontrei um capítulo de livro que aborda o assunto muito melhor do que eu conseguiria fazer. Por sorte, ele está sob licença pública – o que significa que eu pude traduzi-lo e usar como material para o curso. 
-
-Na verdade, apenas usei o Google Translator e revisei o conteúdo para remover umas poucas inconsistência. Assim, se a escrita parecer um pouco robótica, a culpa é da minha preguiça e não dos autores originais.
+Queria escrever algum material original sobre esse tema, mas encontrei um capítulo de livro que aborda o assunto muito melhor do que eu conseguiria fazer. Por sorte, ele está sob licença pública – o que significa que pude traduzi-lo e usar como material para o curso. Na verdade, apenas usei o Google Translator e revisei o conteúdo para remover umas poucas inconsistências. Assim, se a escrita parecer um pouco robótica, a culpa é da minha preguiça e não dos autores originais.
 
 Antes de tudo, preciso frisar que o texto a seguir foi adaptado do livro [Data + Design](https://infoactive.co/data-design), de autoria de Trina Chiasson e Dyanna Gregory, com uma licença Creative Commons BY-NC-SA 4.0 Minha tradução não foi endossada por nenhum dos autores originais. [Esse capítulo](https://trinachi.github.io/data-design-builds/ch18.html), especificamente, foi escrito por Kathy Chang, Kate Eyler-werve e Alberto Cairo.
 
+Boa leitura!
 
 ***
 
