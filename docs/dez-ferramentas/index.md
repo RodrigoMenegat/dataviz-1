@@ -39,7 +39,7 @@ Agora, já entramos de vez no terrenos dos programadores. O C3.js é uma versão
 
 [**Matplotlib**](https://matplotlib.org/)
 
-Eu sei programar em Python (calma, você vai aprender um pouco sobre isso no próximo módulo) e é assim que eu analiso a maioria dos bancos de dados que aparecem na minha frente. Assim, é muito útil poder criar gráficos exploratórios no mesmo ambiente – é aí que o Matplotlib entrar no jogo. Com poucas linhas de código, é possível fazer gráficos simples como os de barras, linha ou dispersão.
+Eu sei programar em Python (calma, você vai aprender um pouco sobre isso no próximo módulo) e é assim que eu analiso a maioria dos bancos de dados que aparecem na minha frente. Assim, é muito útil poder criar gráficos exploratórios no mesmo ambiente – é aí que o Matplotlib entra no jogo. Com poucas linhas de código, é possível fazer gráficos simples como os de barras, linha ou dispersão.
 
 [**Seaborn**](https://seaborn.pydata.org/)
 
@@ -47,4 +47,4 @@ Outro pacote de Python, o Seaborn permite fazer gráficos mais malucos que os do
 
 [**D3.js**](https://d3js.org/)
 
-O D3.js é um módulo de JavaScript usado para fazer visualizações de dados altamente customizáveis. Provavelmente é o pacote mais usada para elaborar gráficos interativos – quase todas as visualizações que produzi para o Estadão foram feitas com ele.
+O D3.js é um módulo de JavaScript usado para fazer visualizações de dados altamente customizáveis. Provavelmente é o pacote mais usado para elaborar gráficos interativos – quase todas as visualizações que produzi para o Estadão foram feitas com ele.
