@@ -4,7 +4,7 @@
   margin: 0 auto;
   padding-bottom: 60px;
   padding-top: 60px;
-  font-family: Georgia, sans-serif;
+  font-family: Helvetica, sans-serif;
   position: relative;
 }
 
@@ -17,7 +17,6 @@
 
 h1 {
   font-size: 54px;
-  font-family: Georgia, sans-serif;
 }
 
 h2 {
@@ -38,9 +37,9 @@ a {
   text-decoration: none;
   background: #f2f2f2;
   padding: 3px 6px;
-  color: #000;
+  color: lightpink;
 }
 
 a.hover {
-  color: lightpink;
+  color: #eee;
 }
