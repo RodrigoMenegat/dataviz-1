@@ -33,10 +33,11 @@ li {
 }
 
 a {
+  color: #666;
   text-decoration: none;
-  background: #ffc0cb;
+  background: #ff69b4;
 }
 
 a:hover {
-  background: #ff69b4;
+  background: #ffc0cb;
 }
