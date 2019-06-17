@@ -15,7 +15,7 @@ Um curso introdutório de visualização de dados para jornalistas.
 
 [**A vanguarda da visualização de dados no jornalismo**, de Rodrigo Menegat](https://rodrigomenegat.github.io/dataviz-1/vanguarda-da-visualizacao-jornalistica)
 
-[**Dez ferramentas para fazer visualização de dados**, de Rodrigo Menegat](https://rodrigomenegat.github.io/dataviz-1/erros-comuns)
+[**Dez ferramentas para fazer visualização de dados**, de Rodrigo Menegat](https://rodrigomenegat.github.io/dataviz-1/dez-ferramentas)
 
 [**Erros comuns na visualização**, de Kathy Chang, Kate Eyler-werve e Alberto Cairo](https://rodrigomenegat.github.io/dataviz-1/erros-comuns)
 
