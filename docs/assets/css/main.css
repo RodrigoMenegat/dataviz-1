@@ -36,6 +36,7 @@ a {
   color: #666;
   text-decoration: none;
   background: #ffc0cb;
+  padding: 3px;
 }
 
 a:hover {
