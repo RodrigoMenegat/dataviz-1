@@ -15,8 +15,8 @@ Boa leitura!
 ***
 
 
-## Erros comuns na visualização de dados
-##### Kathy Chang, Kate Eyler-werve e Alberto Cairo.
+# Erros comuns na visualização de dados
+#### Kathy Chang, Kate Eyler-werve e Alberto Cairo.
 
 Bem-vindo ao último (mas certamente não menos importante) capítulo do livro! Esperamos que você tenha aprendido o suficiente para apreciar o quanto o uso de dados e um bom design podem ajudar você a transmitir sua mensagem. Visualizadores de dados profissionais também ficam entusiasmados com as histórias que desejam contar, mas às vezes se esquecem de seguir algumas boas práticas. Isso acontece até com os melhores de nós. Então, neste capítulo, vamos mostrar quais exatamente são essas boas práticas.
 
