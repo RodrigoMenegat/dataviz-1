@@ -21,9 +21,9 @@ Um curso introdutório de visualização de dados para jornalistas.
 
 [The Functional Art - Alberto Cairo](https://www.amazon.com/Functional-Art-introduction-information-visualization/dp/0321834739)
 
-- [The Truthful Art - Alberto Cairo](https://www.amazon.com.br/Truthful-Art-Data-Charts-Communication/dp/0321934075)
+[The Truthful Art - Alberto Cairo](https://www.amazon.com.br/Truthful-Art-Data-Charts-Communication/dp/0321934075)
 
-- [The Wall Street Journal Guide To Information Graphics - Dona M. Wong](https://www.saraiva.com.br/the-wall-street-journal-guide-to-information-graphics-the-dos-and-donts-of-presenting-7989439.html)
+[The Wall Street Journal Guide To Information Graphics - Dona M. Wong](https://www.saraiva.com.br/the-wall-street-journal-guide-to-information-graphics-the-dos-and-donts-of-presenting-7989439.html)
 
 
 ## Tutoriais
