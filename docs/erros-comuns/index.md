@@ -1,6 +1,5 @@
 ---
 
-title: Erros comuns na visualização de dados
 layout: project
 
 ---

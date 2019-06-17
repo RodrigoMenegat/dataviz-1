@@ -1,6 +1,5 @@
 ---
 
-title: A vanguarda da visualização de dados no jornalismo
 layout: project
 
 ---

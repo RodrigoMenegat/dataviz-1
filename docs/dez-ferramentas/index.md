@@ -1,6 +1,5 @@
 ---
 
-title: Dez ferramentas para fazer visualização de dados
 layout: project
 
 ---

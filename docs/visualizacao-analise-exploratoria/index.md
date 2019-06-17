@@ -1,6 +1,5 @@
 ---
 
-title: Visualização de dados na apuração: análise exploratória
 layout: project
 
 ---

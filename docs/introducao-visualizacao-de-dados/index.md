@@ -1,6 +1,5 @@
 ---
 
-title: Introdução à visualização de dados
 layout: project
 
 ---
