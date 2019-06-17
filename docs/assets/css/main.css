@@ -35,9 +35,9 @@ li {
 a {
   color: #666;
   text-decoration: none;
-  background: #ff69b4;
+  background: #ffc0cb;
 }
 
 a:hover {
-  background: #ffc0cb;
+  background: #eee;
 }
