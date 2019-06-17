@@ -30,10 +30,11 @@ p {
 
 li {
   font-size: 20px;
-  line-height: 1.8;
+  line-height: 1.5;
 }
 
 a {
+  color: #eee;
   text-decoration: none;
   padding: 3px 6px;
   background: lightpink;
