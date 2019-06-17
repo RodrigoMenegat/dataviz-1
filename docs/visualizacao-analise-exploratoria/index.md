@@ -1,3 +1,11 @@
+---
+
+title: Visualização de dados na apuração: análise exploratória
+layout: project
+
+---
+
+# Visualização de dados na apuração: análise exploratória
 ##### Rodrigo Menegat
 
 Usualmente, vemos os gráficos como uma forma de apresentar informações **para o leitor**. No fluxo de trabalho usual do jornalismo de dados, sistematizado por Paul Bradshaw (2011) como [“A Pirâmide Invertida do Jornalismo de Dados”](https://onlinejournalismblog.com/2011/07/07/the-inverted-pyramid-of-data-journalism/), a visualização é a última etapa de um processo que começa com a coleta de dados e passa pela limpeza e contextualização do material antes de chegar à comunicação do conteúdo.

@@ -1,7 +1,11 @@
 ---
-title: Visualização de dados: uma introdução
+
+title: Introdução à visualização de dados
+layout: project
+
 ---
 
+# Introdução à visualização de dados
 ##### Rodrigo Menegat
 
 Antes de começarmos o módulo pra ver, vale a pena apresentar alguns conceitos fundamentais. 

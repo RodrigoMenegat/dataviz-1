@@ -1,5 +1,9 @@
-title: dataviz-1
 ---
+
+layout: default
+
+---
+
 
 ### Textos obrigatórios
 
