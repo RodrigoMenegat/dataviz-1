@@ -28,9 +28,9 @@ Um curso introdutório de visualização de dados para jornalistas.
 
 ## Tutoriais
 
-[Fazendo gráficos simples no Datawrapper](#)
+[**Fazendo gráficos simples no Datawrapper**](#)
 
-[Fazendo gráficos doidos no Flourish](#)
+[**Fazendo gráficos doidos no Flourish**](#)
 
 ## Exercícios
 

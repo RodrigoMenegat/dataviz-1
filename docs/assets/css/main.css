@@ -1,6 +1,6 @@
 .container {
   width: 80%;
-  color: #333;
+  color: #666;
   margin: 0 auto;
   padding-bottom: 60px;
   padding-top: 60px;
@@ -33,13 +33,10 @@ li {
 }
 
 a {
-  font-family: Georgia, sans-serif;
-  color: #666;
   text-decoration: none;
-  padding: 2px 2px;
-  background: lightpink;
+  background: #ffc0cb;
 }
 
 a:hover {
-  background: #f2f2f2;
+  background: #ff69b4;
 }
