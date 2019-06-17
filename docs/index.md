@@ -4,6 +4,8 @@ layout: default
 
 ---
 
+# dataviz-1
+Um curso introdutório de visualização de dados para jornalistas.
 
 ### Textos obrigatórios
 
