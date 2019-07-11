@@ -9,6 +9,14 @@
   position: relative;
 }
 
+/* Centraliza imagens 
+com parâmetro especificado */
+
+img[src$="centered"] {
+  display:block;
+  margin: 0 auto;
+}
+
 .nav {
   margin-top: 60px;
   text-align: right;
