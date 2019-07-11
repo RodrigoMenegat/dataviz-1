@@ -42,7 +42,7 @@ Em *The Functional Art (2011)*, Alberto Cairo resume bem como a visualização d
 
 Vamos ver, na prática, como isso funciona:
 
-![alt text](../imgs/barras-paises.png?style="centered" "Gráfico de barras comparando população dos países")
+![alt text](../imgs/barras-paises.png? "Gráfico de barras comparando população dos países")
 
 Com o gráfico acima, podemos perceber de forma imediata a proporção da população chinesa. Ela faz o Brasil, que também é um país super-populoso, ficar nanico. A Islândia praticamente desaparece. No gráfico, todas essas informações são comunicadas de uma forma que exige menos esforço mental do que no método anterior, a simples listagem dos valores.
 
@@ -62,7 +62,7 @@ O primeiro é o autor de um livro fundamental chamado *“Visual Display of Quan
 
 Em um resumo grosseiro, o que ele quer dizer é que a mensagem de um gráfico é mais clara quando ele não tem elementos decorativos desnecessários. O gif abaixo demonstra como isso funciona:
 
-![alt text](../imgs/data-ink.gif?style="centered" "Imagem .gif sobre data-ink ratio")
+![alt text](../imgs/data-ink.gif? "Imagem .gif sobre data-ink ratio")
 
 O gráfico de barras final, sem as anotações redundantes e as cores que não trazem informação alguma, é mais fácil de ler. Com menos distrações, o leitor precisa fazer um esforço cognitivo menor para chegar à ideia central – e isso casa muito bem com a ideia de que nosso objetivo é tornar operações mentais menos custosas. Tudo que não é essencial para essa tarefa é considerado *chartjunk* – “lixo de tabela” que deve ser descartado.
 
@@ -72,7 +72,7 @@ A parte chata dessa perspectiva, com a qual geralmente concordo, é que ela vê 
 
 Um de seus trabalhos que mais gosto é esse aqui:
 
-![alt text](../imgs/nigel-holmes.jpg?style="centered" "Cartum de Nigel Holmes com gráficos de barras estilizados como pacientes em um hospital")
+![alt text](../imgs/nigel-holmes.jpg? "Cartum de Nigel Holmes com gráficos de barras estilizados como pacientes em um hospital")
 
 Do ponto de vista de Tufte, esse é um material bem problemático – as barras estão desalinhadas, têm um efeito tridimensional desnecessário e não são realmente comparáveis. Mas, caramba, ele desenhou barras deitadas em camas! Holmes sacrificou precisão e minimalismo para fazer um gráfico que, apesar de tecnicamente incorreto, é impactante e memorável. 
 
