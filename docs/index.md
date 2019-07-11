@@ -41,7 +41,7 @@ Essas leituras são apenas sugestões, caso você queira se aprofundar no tema. 
 
 ## Exercícios
 
-**1.** Responde às [perguntas](#) na plataforma do curso.
+**1.** Responda às [perguntas](#) na plataforma do curso.
 
 **2.** Elabore uma visualização a partir de um dos bancos de dados que você descobriu nos módulos anteriores ou outro que achar interessante. Pode usar o DataWrapper ou qualquer outra ferramenta com a qual você se sentir confortável. Publique o resultado no fórum e depois explique porque você escolheu esse formato, respondendo às seguintes questões: 
 
