@@ -41,12 +41,12 @@ Essas leituras são apenas sugestões, caso você queira se aprofundar no tema. 
 
 ## Exercícios
 
-**1.** Responda às [perguntas](#) na plataforma do curso.
+**1.** Responda às [perguntas](https://journalismcourses.org/mod/quiz/view.php?id=7456) na plataforma do curso.
 
-**2.** Elabore uma visualização a partir de um dos bancos de dados que você descobriu nos módulos anteriores ou outro que achar interessante. Pode usar o DataWrapper ou qualquer outra ferramenta com a qual você se sentir confortável. Publique o resultado no fórum e depois explique porque você escolheu esse formato, respondendo às seguintes questões: 
+**2.** Elabore uma visualização a partir de um dos bancos de dados que você descobriu nos módulos anteriores ou outro que achar interessante. Pode usar o DataWrapper ou qualquer outra ferramenta com a qual você se sentir confortável. Publique o resultado no [fórum](https://journalismcourses.org/mod/forum/view.php?id=7237) e depois explique porque você escolheu esse formato, respondendo às seguintes questões: 
 
   - Que tipo de trabalho mental seu gráfico quer facilitar para o leitor?
   - Que outros formatos de gráfico você considerou usar para esse material? Por que escolheu esse?
 
-**3.** Escolha uma publicação no fórum e escreva uma crítica construtiva sobre o gráfico elaborado pelo colega. Você acha que ele escolheu o gráfico correto para a tarefa mental que queria facilitar? Você teria escolhido um gráfico diferente? Qual?
+**3.** Escolha uma publicação no [fórum](https://journalismcourses.org/mod/forum/view.php?id=7237) e escreva uma crítica construtiva sobre o gráfico elaborado pelo colega. Você acha que ele escolheu o gráfico correto para a tarefa mental que queria facilitar? Você teria escolhido um gráfico diferente? Qual?
 
